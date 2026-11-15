@@ -1,4 +1,14 @@
 {
+	"agreements": [
+		{
+			"area": 273,
+			"code": 846473,
+			"expiryDate": "2028-07-31",
+			"property": "Cutcloy Farm - Cutcloy Trading Company",
+			"term": 2,
+			"type": "SSSI Agreement (S.15)"
+		}
+	],
 	"area": 244.23,
 	"casework": [
 		{
